@@ -1,0 +1,370 @@
+doctor,Gender,Age,st
+ent,m,50,29
+paediatrics,m,11,10
+paediatrics,f,20,14
+ophthalmology,f,50,11
+o&g,f,34,27
+ophthalmology,m,50,15
+ent,others,62,26
+general practitioner,f,11,17
+psychiatry,f,50,70
+psychiatry,f,50,70
+surgical,m,62,30
+paediatrics,m,11,20
+o&g,f,34,31
+psychiatry,m,20,52
+general practitioner,f,11,16
+multiple diagnosis & others,m,11,16
+ophthalmology,m,50,20
+multiple diagnosis & others,m,62,30
+multiple diagnosis & others,f,62,23
+ophthalmology,f,34,15
+psychiatry,m,20,59
+ent,m,34,30
+ent,f,11,26
+psychiatry,f,50,68
+oncology,m,2,46
+psychiatry,m,34,55
+general practitioner,f,34,19
+paediatrics,m,2,23
+ent,m,34,28
+o&g,f,50,31
+general practitioner,f,34,18
+surgical,m,20,15
+surgical,f,34,28
+ophthalmology,others,20,10
+o&g,f,50,22
+o&g,f,20,34
+multiple diagnosis & others,f,34,16
+ophthalmology,m,62,12
+multiple diagnosis & others,f,2,27
+psychiatry,f,34,60
+oncology,m,20,48
+general practitioner,f,34,15
+o&g,f,34,28
+paediatrics,m,20,19
+psychiatry,f,20,62
+oncology,f,11,51
+o&g,f,34,23
+general practitioner,f,50,20
+general practitioner,f,62,19
+surgical,m,50,17
+oncology,f,50,57
+ent,f,11,25
+ophthalmology,m,62,11
+ophthalmology,m,50,10
+surgical,f,50,29
+general practitioner,m,2,9
+ophthalmology,m,20,14
+ent,m,50,16
+paediatrics,m,20,12
+o&g,f,20,30
+multiple diagnosis & others,f,62,30
+paediatrics,f,11,11
+general practitioner,f,11,18
+surgical,f,62,25
+psychiatry,others,62,62
+ophthalmology,m,50,14
+ent,others,20,15
+oncology,f,50,53
+general practitioner,m,34,5
+general practitioner,m,34,6
+ophthalmology,f,34,16
+oncology,f,34,45
+o&g,f,50,17
+multiple diagnosis & others,f,62,30
+surgical,f,34,30
+paediatrics,m,11,23
+surgical,others,62,25
+psychiatry,f,34,50
+surgical,m,50,22
+general practitioner,f,20,12
+multiple diagnosis & others,f,20,14
+o&g,f,34,35
+paediatrics,f,11,18
+oncology,f,34,57
+ophthalmology,f,20,14
+multiple diagnosis & others,f,20,30
+general practitioner,m,34,18
+paediatrics,m,2,22
+ent,f,20,20
+ophthalmology,f,62,20
+o&g,f,50,17
+oncology,f,50,42
+ophthalmology,f,50,16
+ophthalmology,f,62,16
+ent,f,50,26
+general practitioner,m,20,9
+multiple diagnosis & others,others,34,19
+ophthalmology,m,62,12
+oncology,f,62,48
+ent,f,62,24
+psychiatry,m,50,61
+o&g,f,34,27
+multiple diagnosis & others,m,2,17
+surgical,others,20,28
+paediatrics,m,20,19
+surgical,f,20,21
+surgical,f,20,24
+surgical,f,50,17
+general practitioner,others,2,10
+ent,m,34,23
+paediatrics,m,11,23
+ent,m,50,24
+ent,m,2,27
+general practitioner,m,34,17
+psychiatry,f,34,52
+psychiatry,m,20,50
+oncology,f,20,53
+ent,m,62,24
+general practitioner,m,62,20
+surgical,m,34,19
+ophthalmology,m,50,14
+oncology,others,34,51
+multiple diagnosis & others,m,50,11
+psychiatry,m,20,55
+paediatrics,m,20,14
+paediatrics,f,2,22
+ent,m,20,28
+general practitioner,m,20,8
+surgical,f,34,17
+multiple diagnosis & others,m,2,25
+surgical,f,20,30
+o&g,f,34,17
+ent,f,34,17
+oncology,others,62,57
+o&g,f,34,35
+surgical,f,20,22
+o&g,f,34,32
+general practitioner,others,62,18
+paediatrics,f,11,20
+surgical,f,20,23
+oncology,m,11,49
+oncology,m,11,57
+oncology,m,34,54
+psychiatry,m,62,69
+surgical,f,34,27
+multiple diagnosis & others,others,50,19
+surgical,f,62,20
+psychiatry,m,34,65
+surgical,m,34,19
+ent,f,50,23
+ophthalmology,m,62,18
+general practitioner,m,34,17
+paediatrics,m,2,22
+ophthalmology,m,34,19
+ophthalmology,f,34,16
+oncology,m,11,47
+ent,f,34,18
+paediatrics,f,11,22
+o&g,f,50,16
+ophthalmology,f,34,16
+o&g,f,34,33
+general practitioner,m,2,6
+ophthalmology,f,50,13
+ent,m,34,16
+multiple diagnosis & others,m,11,30
+surgical,m,50,26
+ophthalmology,f,20,18
+surgical,m,62,25
+oncology,f,20,40
+multiple diagnosis & others,m,62,23
+paediatrics,m,11,15
+ophthalmology,f,20,18
+paediatrics,f,20,13
+oncology,f,34,52
+psychiatry,f,62,66
+o&g,f,34,22
+ent,f,2,20
+ophthalmology,f,34,11
+ophthalmology,f,20,15
+oncology,f,34,51
+ent,m,2,20
+ent,m,2,28
+psychiatry,m,34,50
+o&g,f,20,19
+oncology,m,62,43
+multiple diagnosis & others,f,50,10
+paediatrics,f,2,23
+general practitioner,m,50,19
+oncology,others,62,43
+oncology,f,11,40
+ent,m,50,30
+paediatrics,f,11,14
+multiple diagnosis & others,m,11,29
+surgical,m,34,29
+o&g,f,50,21
+o&g,f,20,15
+surgical,others,50,24
+ent,f,62,28
+ophthalmology,others,20,15
+psychiatry,others,34,58
+multiple diagnosis & others,f,20,19
+ophthalmology,f,34,11
+oncology,others,2,48
+psychiatry,f,20,64
+oncology,m,20,60
+ent,m,62,28
+ophthalmology,f,20,10
+oncology,f,62,49
+general practitioner,m,62,20
+multiple diagnosis & others,f,11,26
+o&g,f,34,20
+psychiatry,f,20,60
+oncology,f,2,40
+psychiatry,f,50,69
+ent,f,62,26
+oncology,f,34,44
+paediatrics,f,2,20
+oncology,m,11,49
+surgical,f,20,19
+multiple diagnosis & others,m,34,13
+ent,m,2,18
+ent,f,20,18
+psychiatry,m,34,52
+psychiatry,f,50,68
+o&g,f,20,21
+o&g,f,34,33
+oncology,m,50,53
+o&g,f,34,20
+o&g,f,50,17
+ent,f,34,24
+psychiatry,m,50,62
+o&g,f,50,16
+general practitioner,f,34,19
+multiple diagnosis & others,m,62,24
+multiple diagnosis & others,m,2,12
+surgical,m,50,30
+ent,f,20,26
+paediatrics,f,2,22
+multiple diagnosis & others,m,20,22
+multiple diagnosis & others,f,62,21
+psychiatry,f,62,65
+paediatrics,m,11,10
+oncology,m,50,49
+oncology,f,62,41
+ent,m,11,27
+surgical,f,62,25
+surgical,f,20,24
+oncology,m,2,59
+paediatrics,m,2,19
+o&g,f,50,22
+surgical,m,50,24
+psychiatry,m,62,68
+paediatrics,f,20,12
+oncology,f,2,51
+surgical,m,50,24
+surgical,m,34,18
+ophthalmology,m,20,15
+ent,others,11,19
+general practitioner,f,62,19
+surgical,m,34,27
+ophthalmology,others,20,17
+oncology,others,34,48
+general practitioner,m,50,8
+general practitioner,f,62,17
+surgical,m,50,19
+general practitioner,m,2,9
+oncology,f,20,54
+ophthalmology,others,34,20
+multiple diagnosis & others,f,11,26
+general practitioner,m,50,7
+general practitioner,f,62,19
+ophthalmology,m,50,14
+multiple diagnosis & others,m,62,10
+general practitioner,m,50,18
+ent,f,62,21
+general practitioner,f,20,11
+surgical,m,62,21
+paediatrics,f,2,22
+multiple diagnosis & others,f,20,24
+o&g,f,34,35
+surgical,others,20,29
+psychiatry,f,50,66
+oncology,m,62,46
+multiple diagnosis & others,f,50,22
+paediatrics,f,11,22
+ophthalmology,m,62,17
+ophthalmology,m,34,12
+o&g,f,20,31
+psychiatry,m,20,52
+psychiatry,m,50,60
+general practitioner,f,2,15
+multiple diagnosis & others,others,34,13
+general practitioner,others,20,10
+psychiatry,others,62,60
+general practitioner,f,11,19
+ent,f,2,28
+ophthalmology,f,34,16
+paediatrics,f,2,23
+paediatrics,f,11,23
+ent,m,11,20
+paediatrics,m,2,22
+ophthalmology,m,34,17
+general practitioner,m,11,9
+psychiatry,f,34,64
+psychiatry,m,50,66
+psychiatry,others,62,70
+multiple diagnosis & others,m,2,25
+o&g,f,34,15
+general practitioner,m,11,8
+oncology,m,2,45
+surgical,f,50,21
+oncology,m,62,44
+multiple diagnosis & others,m,20,29
+o&g,f,50,27
+multiple diagnosis & others,m,34,15
+ent,m,34,15
+ophthalmology,m,50,15
+ent,f,62,29
+o&g,f,20,16
+o&g,f,50,31
+paediatrics,f,2,21
+paediatrics,m,11,10
+psychiatry,f,34,62
+oncology,m,34,44
+paediatrics,f,2,18
+multiple diagnosis & others,f,50,24
+general practitioner,m,50,11
+psychiatry,m,34,59
+psychiatry,m,20,50
+o&g,f,20,23
+o&g,f,34,20
+paediatrics,f,2,20
+paediatrics,m,11,19
+ent,f,20,23
+o&g,f,50,25
+psychiatry,m,20,58
+paediatrics,m,11,20
+multiple diagnosis & others,f,50,13
+paediatrics,m,2,20
+psychiatry,m,50,65
+surgical,f,62,22
+oncology,m,20,42
+general practitioner,f,62,18
+paediatrics,m,2,23
+surgical,m,34,25
+psychiatry,f,62,61
+ophthalmology,m,62,20
+o&g,f,34,20
+multiple diagnosis & others,m,2,24
+o&g,f,20,19
+multiple diagnosis & others,f,34,29
+multiple diagnosis & others,m,34,25
+ent,m,11,22
+ophthalmology,m,20,15
+ent,others,34,23
+psychiatry,f,20,65
+oncology,m,50,40
+o&g,f,20,25
+o&g,f,20,26
+multiple diagnosis & others,others,34,18
+general practitioner,m,2,8
+paediatrics,f,2,19
+general practitioner,f,20,17
+paediatrics,m,20,14
+multiple diagnosis & others,f,11,11
+multiple diagnosis & others,m,34,19
+surgical,m,34,26
+surgical,m,20,25
+ophthalmology,f,50,18
