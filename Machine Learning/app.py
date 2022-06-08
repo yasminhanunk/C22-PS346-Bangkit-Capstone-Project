@@ -1,6 +1,7 @@
 from fastapi import FastAPI, Form
 from fastapi.responses import HTMLResponse
 import uvicorn
+import tensorflow as tf
 
 
 app = FastAPI()
@@ -18,6 +19,20 @@ def take_input():
     <input type="number" name="age" value=""/>
     <input type="submit"/>
     </form>'''
+
+
+@app.post('/predict')
+def predict(doctor: str = Form(), gender: str = Form(), age: int = Form()):
+    loaded_model = tf.keras.models.load_model('./saved_model')
+    data = {
+        'doctor': doctor,
+        'gender': gender,
+        'age': age
+    }
+    input_dict = {name: tf.convert_to_tensor([value]) for name, value in data.items()}
+    prediction = loaded_model.predict(input_dict)
+    
+    return {'prediction': prediction.tolist()[0][0]}
 
 
 if __name__ == '__main__':
