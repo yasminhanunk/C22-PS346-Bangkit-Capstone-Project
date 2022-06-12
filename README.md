@@ -1,6 +1,7 @@
 # C22-PS346-Bangkit-Capstone-Project
 
 Health Queue Application
+
 ![image-removebg-preview (1)](https://user-images.githubusercontent.com/88268217/173232990-9403818b-0e63-4830-9607-14a42f5eb817.png)
 
 ## About this project
