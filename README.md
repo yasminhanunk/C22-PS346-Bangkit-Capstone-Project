@@ -2,7 +2,8 @@
 
 Health Queue Application
 
-![image-removebg-preview (1)](https://user-images.githubusercontent.com/88268217/173232990-9403818b-0e63-4830-9607-14a42f5eb817.png)
+![image-removebg-preview (2)](https://user-images.githubusercontent.com/88268217/173233110-e4fe1987-c55f-44f9-a352-67ec06a288a3.png)
+
 
 ## About this project
 To make it easier for patients who want to seek treatment by merging the application that we made with the website of the hospital in question where patients do not need to take a queue and queue directly. In addition, there will be a warning if predicting the time is approaching by checking on Gmaps as well to find out the distance from the patient's starting point to the hospital.
