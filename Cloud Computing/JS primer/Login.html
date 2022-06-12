@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>
+            C22-PS346
+        </title>
+        <link rel="stylesheet" href="./css/index.css" />
+        <script type="module" src="./JS/about.js"></script>
+    </head>
+
+    <body>
+        <!--
+            h1,2,3,..: header 1,2,3.. semakin besar n ukuran header semakin kecil
+            p: paragraf text
+            hr: horizontal rule
+            em: emphasized text
+        -->
+
+        <!-- header untuk intro, navigasi konten, logo, dsb-->
+        <header>
+            <span id="nav-logo">
+                Q+
+            </span>
+            <nav id="main-nav">
+                 <!-- di dalam nav, dapat dicantumkan anchor tags-->
+                 <a href="./index.html">Home</a> <a>|</a> <a href="./about.html">About</a> <a>|</a> <a href="./Login.html">Login</a>
+            </nav>
+        </header>
+
+        <main>
+            <h1>Registration</h1>
+            <h2>Selamat Datang di Aplikasi Antrian Q+</h2>
+            <p>Silahkan melakukan pendaftaran dengan mengisi kolom berikut:</p>
+            <ul>
+                    <form onsubmit="return false"> <!--return false digunakan untuk mematikan fungsi submit setelah tombol save ditekan-->
+                            <li>Nama:</li>
+                            <input type="text" id="name-input">
+                            <li>Jenis Kelamin:</li>
+                            <input type="text" id="jk-input">
+                            <li>Umur:</li>
+                            <input type="number" id="age-input">
+                            <li>Poli Tujuan:</li>
+                            <input type="text" id="poli-input">
+                            <li>Alamat Email:</li>
+                            <input type="text" id="mail-input">
+                            <li>No. Telepon Aktif:</li>
+                            <input type="number" id="phone-input">
+                            <li>No. Identitas (KTP/KK/Passport):</li>
+                            <input type="number" id="identity-input">
+                            <p></p>
+                            <button type="button" id="click-button">Save</button>
+                    </form>
+            </ul>    
+        </main>
+
+        <!-- atribut yang dapat ditambahkan,
+        Attribute demo:
+         <p>
+            An app I used daily is
+            <a href="https://todoist.com" target="_blank" title="Software recommendation">Todoist</a>.
+        </p>
+
+        Load an image from a relative URL
+        <img src="./images/beeple-potus-3012.gif" alt="Some cool art" width="300" />
+        </main>
+        -->
+
+        <footer>© C22-PS346 Bangkit Academy, 2022</footer>
+    </body>
+</html>
