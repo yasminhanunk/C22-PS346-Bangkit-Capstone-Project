@@ -2,11 +2,8 @@
 
 Health Queue Application
 
-![image-removebg-preview (2)](https://user-images.githubusercontent.com/88268217/173233110-e4fe1987-c55f-44f9-a352-67ec06a288a3.png)
+![ANTRI logo](https://user-images.githubusercontent.com/96274018/173274309-8b869873-4d4b-42c5-8fbc-873c7f7c0c44.png)
 
-
-## About this project
-To make it easier for patients who want to seek treatment by merging the application that we made with the website of the hospital in question where patients do not need to take a queue and queue directly. In addition, there will be a warning if predicting the time is approaching by checking on Gmaps as well to find out the distance from the patient's starting point to the hospital.
 
 ## Our members
 
@@ -18,6 +15,13 @@ To make it easier for patients who want to seek treatment by merging the applica
 | Tifan Dwi Avianto             | C2007H0657 | Cloud Computing    |
 | I Nyoman Cerdas Janastu       | M2015F1413 | Machine Learning   |
 | Yasmin Hanun Kinanti          | M7312F2668 | machine Learning   |
+
+
+## About this project
+To make it easier for patients who want to seek treatment by merging the application that we made with the website of the hospital in question where patients do not need to take a queue and queue directly. In addition, there will be a warning if predicting the time is approaching by checking on Gmaps as well to find out the distance from the patient's starting point to the hospital.
+
+![app1](https://user-images.githubusercontent.com/96274018/173275624-f8973df6-dacd-4688-9cf8-71da03d02151.png)
+![app2](https://user-images.githubusercontent.com/96274018/173275695-fd159aa2-3b2f-4fe0-9185-e3a0eadbd871.png)
 
 
 ## Tech Stacks
