@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="40dp"
+    android:paddingEnd="40dp"
+    android:background="@drawable/bglogin"
+    android:id="@+id/loginku"
+    tools:context=".ui.viewmodel.loginrs">
+
+
+    <ImageView
+        android:id="@+id/logosetting"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/setting"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="16dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70sp"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:src="@drawable/logoreal"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:text="@string/app_name"
+            android:textSize="40dp"/>
+        <com.example.antrisehat.ui.customview.MyEditTextEmail
+            android:layout_width="match_parent"
+            android:id="@+id/emailuser"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:paddingStart="16sp"
+            android:paddingEnd="16sp"
+            android:minHeight="48dp"
+            android:textStyle="bold"
+            android:inputType="textEmailAddress"
+            android:hint="@string/input_email"/>
+        <com.example.antrisehat.ui.customview.MyEditTextPass
+            android:id="@+id/pwuser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:paddingStart="16sp"
+            android:paddingEnd="16sp"
+            android:textStyle="bold"
+            android:minHeight="48dp"
+            android:hint="@string/input_password"
+            android:inputType="textPassword"/>
+
+        <com.example.antrisehat.ui.customview.MyButtonLoginrs
+            android:id="@+id/btnlogin"
+            style="@style/BtnReguler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/sign_in"
+            android:contentDescription="@string/login_account"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/et_signIn"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:text="@string/dont_have_account"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

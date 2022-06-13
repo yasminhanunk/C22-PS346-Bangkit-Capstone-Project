@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Antri Sehat</string>
+
+    <string name="input_password">Input your password</string>
+    <string name="input_email">Input your email</string>
+    <string name="jenis_dokter">Jenis Dokter</string>
+    <string name="dokter">Dokter:</string>
+
+    <string name="picture_logo">This StoryApp logo</string>
+
+    <string name="invalid_username">Invalid Username</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Password must have more than 5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_success">Register Success, You can login with your account now</string>
+    <string name="register_failed">Register Failed, Please try again</string>
+
+    <string name="logout">Log Out</string>
+    <string name="sign_in">Login</string>
+    <string name="register">Register</string>
+    <string name="fill_all">Please Fill the Field Correctly</string>
+    <string name="login_account">Login your Account</string>
+    <string name="dont_have_account">don\'t have an account?</string>
+    <string name="have_account"><u>Have an account?</u></string>
+    <string name="information">Information</string>
+    <string name="sign_in_success">Sign In Success</string>
+    <string name="sign_in_failed">Sign In Failed</string>
+    <string name="continue_">Continue</string>
+    <string name="change_language">Change language</string>
+    <string name="greeting">Hi %1$s,</string>
+    <string name="log_out_success">Log Out Success</string>
+
+    <string name="home_description">Thank you for using this application, please click continue to take the Online Queue</string>
+
+    <string name="register_your_account">Register your account</string>
+    <string name="must_filled">Must be filled</string>
+    <string name="input_name">Input Your Name</string>
+
+    <string name="foto">foto</string>
+    <string name="nama_user">Nama :</string>
+    <string name="namanya">Nama User</string>
+    <string name="riwayat_sehat">Riwayat Kesehatan</string>
+    <string name="alamat">Alamat :</string>
+    <string name="todo">todo</string>
+    <string name="alamat_user">Alamat</string>
+    
+    <string-array name="data_jenis_dokter">
+        <item>Ent</item>
+        <item>Paediatrics</item>
+        <item>Ophthalmology</item>
+        <item>O & G</item>
+        <item>General Practitioner</item>
+        <item>Psychiatry</item>
+        <item>Surgical</item>
+        <item>Multiple Diagnosis & others</item>
+        <item>Oncology</item>
+    </string-array>
+
+</resources>

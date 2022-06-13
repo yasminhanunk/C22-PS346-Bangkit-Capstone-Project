@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:paddingStart="40dp"
+    android:paddingEnd="40dp"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.RegisterActivity">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="16dp"
+        android:id="@+id/logosetting"
+        android:contentDescription="@string/change_language"
+        android:src="@drawable/setting"/>
+
+    <LinearLayout
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:id="@+id/imageView"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center"
+            android:src="@drawable/logoreal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:textStyle="bold"
+            android:text="@string/register_your_account"
+            android:textSize="30sp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/et_name"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:hint="@string/input_name"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/emailuser"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="@string/input_email"
+            android:inputType="textEmailAddress"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/pwuser"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:hint="@string/input_password"
+            android:layout_marginTop="16dp"
+            android:inputType="textPassword"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/usernik"
+            android:layout_gravity="start"
+            android:hint="Input your NIK"
+            android:layout_marginTop="16dp"
+            android:inputType="number"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/notelp"
+            android:layout_gravity="start"
+            android:hint="Input your phone number"
+            android:layout_marginTop="16dp"
+            android:inputType="number"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/tgllahir"
+            android:layout_gravity="start"
+            android:hint="Input your birthday"
+            android:layout_marginTop="16dp"
+            android:inputType="date"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/jenskel"
+            android:layout_gravity="start"
+            android:hint="Choose your Gender"
+            android:layout_marginTop="16dp"
+            android:inputType=""
+            android:layout_height="wrap_content"/>
+
+        <com.example.antrisehat.ui.customview.MyButtonRegister
+            android:layout_width="match_parent"
+            android:id="@+id/btnregister"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"/>
+
+        <TextView
+            android:id="@+id/signIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="@string/have_account"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+</RelativeLayout>
